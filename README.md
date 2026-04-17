@@ -46,11 +46,15 @@ This project analyzes housing data and builds machine learning models to predict
 ### 🔹 Correlation Heatmap
 ![Correlation Heatmap](images/heatmap_correlation.png)
 
-### 🔹 House Price Distribution
-![House Price Distribution](images/house_price_distribution.png)
+### 📊 House Price Distribution
 
-### 🔹 Income vs Price
-![Income vs Price](images/income_vs_price_scatter.png)
+![House Price Distribution](images/histogram_house_prices.png)
+
+### 📈 Income vs Price
+
+![Income vs Price](images/scatter_income_vs_price.png)
+
+
 
 ---
 
